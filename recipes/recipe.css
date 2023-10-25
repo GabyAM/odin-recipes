@@ -1,0 +1,12 @@
+body {
+    background-color:salmon;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1, h3, p {
+    background-color: snow;
+}
